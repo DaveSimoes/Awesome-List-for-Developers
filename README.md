@@ -1,4 +1,4 @@
-## Table of Contents: 🚀
+# Categories: 🚀
 
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
