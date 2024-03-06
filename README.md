@@ -7,6 +7,7 @@
 
 # Categories: 🚀
 - [Learn](#learn)
+- [Courses](#courses)
 - [Tutorials](#tutorials)
 - [Programming Languages](#programming-languages)
 - [Tools](#tools)
