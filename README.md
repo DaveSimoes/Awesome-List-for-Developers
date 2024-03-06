@@ -9,6 +9,7 @@
 - [Learn](#learn)
 - [Tutorials](#tutorials)
 - [Programming Languages](#programming-languages)
+- [Tools](#tools)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Frameworks](#frameworks)
@@ -432,72 +433,24 @@
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
+### Tools
 
-
-# Articles and standards
-
-* [HTML 5.3](https://w3c.github.io/html/) - Current HTML5 spec
-* [Progressive enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
-* [The extensible web manifesto](https://extensiblewebmanifesto.org/)
-* [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
-
-## Multimedia capabilities
-
-### Audio
-
-* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
-* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
-* [Making a Guitar Tuner with HTML5](https://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
-* [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
-
-### Media Capture
-
-* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
-* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
-
-### Picture in Picture
-
-* [Chrome's new Picture in Picture API](https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture)
-
-### Speech Synthesis
-
-* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
-* [Another useful intro](https://shapeshed.com/html5-speech-recognition-api/)
-
-### Voice Recognition
-
-* [Web speech API demo](https://www.google.com/intl/en/chrome/demos/speech.html)
-* [Using the Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
-* [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
-* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
-
-### Virtual Reality
-
-* [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
-
-### Web animations
-
-* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
-* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
-
-## Elements
-
-### Canvas
-
-* [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_canvas.asp)
-* [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-* [Various Tutorials](https://www.html5canvastutorials.com/)
-* [Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
-
-### Head
-
-* [A list of things that go in your pages' HEAD element](https://gethead.info/)
-
-### Sectioning
-
-* [How to Use The HTML5 Sectioning Elements](https://blog.teamtreehouse.com/use-html5-sectioning-elements)
-
-
+1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+2.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
+2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
+3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
+4.  [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
+5.  [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for deep learning
+6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
+7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
+8.  [Neptune](https://neptune.ai/) - Lightweight tool for experiment tracking and results visualization. 
+9.  [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and links to code implementations for ML papers anywhere online: Google, Twitter, Arxiv, Scholar, etc.
+10. [Determined](https://github.com/determined-ai/determined) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
+11. [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
+12. [hub](https://github.com/activeloopai/Hub) - Fastest unstructured dataset management for TensorFlow/PyTorch by activeloop.ai. Stream & version-control data. Converts large data into single     numpy-like array on the cloud, accessible on any machine.
+13. [DVC](https://dvc.org/) - DVC is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
+14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
+15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
 
 
   ## Front-End Development
