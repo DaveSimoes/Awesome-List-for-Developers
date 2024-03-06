@@ -7,9 +7,11 @@
 
 # Categories: 🚀
 - [Learn](#learn)
+- [HTML](#html)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Programming Languages](#programming-languages)
+- [Frameworks](#frameworks)
 - [Databases](#databases)
 - [Development Environment](#development-environment)
 - [Testing](#testing)
@@ -32,6 +34,130 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+
+
+  ## HTML
+- [Articles and standards](#articles-and-standards)
+- [Multimedia capabilities](#multimedia-capabilities)
+  - [Audio](#audio)
+  - [Media capture](#media-capture)
+  - [Picture in Picture](#picture-in-picture)
+  - [Speech synthesis](#speech-synthesis)
+  - [Voice recognition](#voice-recognition)
+  - [Virtual Reality (VR)](#virtual-reality)
+  - [Web animations](#web-animations)
+- [Elements](#elements)
+  - [Canvas](#canvas)
+  - [Head](#head)
+  - [Sectioning](#sectioning)
+  - [Media Elements](#media-elements)
+  - [Forms](#forms)
+  - [Time](#time)
+  - [WebVTT](#webtt)
+  - [HTML Imports](#html-imports)
+- [Development APIs](#development-apis)
+  - [Permissions](#permissions)
+  - [Geolocation](#geolocation)
+  - [Cryptography](#cryptography)
+  - [File](#file)
+  - [Frame timing](#frame-timing)
+  - [requestIdleCallback](#requestidlecallback)
+  - [requestAnimationFrame](#requestanimationframe)
+  - [Web payments](#web-payments)
+- [Semantics](#semantics)
+- [Accessibility](#accessibility)
+- [DOM management](#dom-management)
+  - [Shadow DOM](#shadow-dom)
+  - [Data Binding](#data-binding)
+  - [Web Components](#web-components)
+- [Progressive web apps](#progressive-web-apps)
+  - [Service Workers](#service-workers)
+  - [Offline caching](#offline-caching)
+  - [Push Notifications](#push-notifications)
+- [Client side storage](#client-side-storage)
+- [Performance](#performance)
+- [Mobile](#mobile)
+- [Communications and interoperability](#communications-and-interoperability)
+  - [Web Sockets](#web-sockets)
+  - [WebRTC](#webrtc)
+- [Web Workers](#web-workers)
+- [WebGL](#webgl)
+- [Browser compatibility](#browser-compatibility)
+- [Books](#books)
+- [Game development](#game-development)
+- [Bootcamp](#bootcamp)
+- [Videos and Keynotes](#videos-and-keynotes)
+- [Websites and resources](#websites-and-resources)
+  - [Websites](#websites)
+  - [Weekly news](#weekly-news)
+  - [Twitter](#twitter)
+- [Contributing](#contributing)
+
+# Articles and standards
+
+* [HTML 5.3](https://w3c.github.io/html/) - Current HTML5 spec
+* [Progressive enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
+* [The extensible web manifesto](https://extensiblewebmanifesto.org/)
+* [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
+
+## Multimedia capabilities
+
+### Audio
+
+* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
+* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
+* [Making a Guitar Tuner with HTML5](https://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
+* [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
+
+### Media Capture
+
+* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
+
+### Picture in Picture
+
+* [Chrome's new Picture in Picture API](https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture)
+
+### Speech Synthesis
+
+* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
+* [Another useful intro](https://shapeshed.com/html5-speech-recognition-api/)
+
+### Voice Recognition
+
+* [Web speech API demo](https://www.google.com/intl/en/chrome/demos/speech.html)
+* [Using the Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
+* [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
+* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
+
+### Virtual Reality
+
+* [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
+
+### Web animations
+
+* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
+* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
+
+## Elements
+
+### Canvas
+
+* [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_canvas.asp)
+* [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [Various Tutorials](https://www.html5canvastutorials.com/)
+* [Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
+
+### Head
+
+* [A list of things that go in your pages' HEAD element](https://gethead.info/)
+
+### Sectioning
+
+* [How to Use The HTML5 Sectioning Elements](https://blog.teamtreehouse.com/use-html5-sectioning-elements)
+
+
+
 
   ## Front-End Development
 
@@ -509,7 +635,14 @@
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
 
- 
+  ## Frameworks
+
+- [CSS](https://github.com/troxler/awesome-css-frameworks)
+- [Python](https://github.com/vinta/awesome-python)
+- [Go](https://github.com/avelino/awesome-go)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [React](https://github.com/enaqx/awesome-react)
+
   ## Databases
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
