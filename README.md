@@ -11,7 +11,8 @@
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Databases](#databases)
-
+- [Development Environment](#development-environment)
+- [Testing](#testing)
 
 
 
@@ -507,6 +508,44 @@
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
+## Development Environment
+
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+- [Dev Env](https://github.com/jondot/awesome-devenv#readme)
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
+- [Shell](https://github.com/alebcay/awesome-shell#readme)
+- [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
+- [Git Tips](https://github.com/git-tips/tips#readme)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+- [SSH](https://github.com/moul/awesome-ssh#readme)
+- [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
+- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
+- [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+
+
+## Testing
+
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+- [k6](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+- [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+- [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## Contribute
 
