@@ -10,6 +10,7 @@
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
+- [Databases](#databases)
 
 
 
@@ -487,6 +488,24 @@
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+
+  ## Databases
+
+- [Database](https://github.com/numetriclabz/awesome-db#readme)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
+- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+- [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
+- [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
+- [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 
 ## Contribute
