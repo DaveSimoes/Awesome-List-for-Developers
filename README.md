@@ -7,9 +7,9 @@
 
 # Categories: 🚀
 
-- [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
+- [Programming Languages](#programming-languages)
 - [Databases](#databases)
 - [Development Environment](#development-environment)
 - [Testing](#testing)
