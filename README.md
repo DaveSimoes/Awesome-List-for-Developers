@@ -7,9 +7,9 @@
 
 # Categories: 🚀
 - [Learn](#learn)
+- [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
-- [Programming Languages](#programming-languages)
 - [Frameworks](#frameworks)
 - [Databases](#databases)
 - [Development Environment](#development-environment)
@@ -34,252 +34,7 @@
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
-
-  ## HTML
-- [Articles and standards](#articles-and-standards)
-- [Multimedia capabilities](#multimedia-capabilities)
-  - [Audio](#audio)
-  - [Media capture](#media-capture)
-  - [Picture in Picture](#picture-in-picture)
-  - [Speech synthesis](#speech-synthesis)
-  - [Voice recognition](#voice-recognition)
-  - [Virtual Reality (VR)](#virtual-reality)
-  - [Web animations](#web-animations)
-- [Elements](#elements)
-  - [Canvas](#canvas)
-  - [Head](#head)
-  - [Sectioning](#sectioning)
-  - [Media Elements](#media-elements)
-  - [Forms](#forms)
-  - [Time](#time)
-  - [WebVTT](#webtt)
-  - [HTML Imports](#html-imports)
-- [Development APIs](#development-apis)
-  - [Permissions](#permissions)
-  - [Geolocation](#geolocation)
-  - [Cryptography](#cryptography)
-  - [File](#file)
-  - [Frame timing](#frame-timing)
-  - [requestIdleCallback](#requestidlecallback)
-  - [requestAnimationFrame](#requestanimationframe)
-  - [Web payments](#web-payments)
-- [Semantics](#semantics)
-- [Accessibility](#accessibility)
-- [DOM management](#dom-management)
-  - [Shadow DOM](#shadow-dom)
-  - [Data Binding](#data-binding)
-  - [Web Components](#web-components)
-- [Progressive web apps](#progressive-web-apps)
-  - [Service Workers](#service-workers)
-  - [Offline caching](#offline-caching)
-  - [Push Notifications](#push-notifications)
-- [Client side storage](#client-side-storage)
-- [Performance](#performance)
-- [Mobile](#mobile)
-- [Communications and interoperability](#communications-and-interoperability)
-  - [Web Sockets](#web-sockets)
-  - [WebRTC](#webrtc)
-- [Web Workers](#web-workers)
-- [WebGL](#webgl)
-- [Browser compatibility](#browser-compatibility)
-- [Books](#books)
-- [Game development](#game-development)
-- [Bootcamp](#bootcamp)
-- [Videos and Keynotes](#videos-and-keynotes)
-- [Websites and resources](#websites-and-resources)
-  - [Websites](#websites)
-  - [Weekly news](#weekly-news)
-  - [Twitter](#twitter)
-- [Contributing](#contributing)
-
-# Articles and standards
-
-* [HTML 5.3](https://w3c.github.io/html/) - Current HTML5 spec
-* [Progressive enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
-* [The extensible web manifesto](https://extensiblewebmanifesto.org/)
-* [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
-
-## Multimedia capabilities
-
-### Audio
-
-* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
-* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
-* [Making a Guitar Tuner with HTML5](https://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
-* [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
-
-### Media Capture
-
-* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
-* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
-
-### Picture in Picture
-
-* [Chrome's new Picture in Picture API](https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture)
-
-### Speech Synthesis
-
-* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
-* [Another useful intro](https://shapeshed.com/html5-speech-recognition-api/)
-
-### Voice Recognition
-
-* [Web speech API demo](https://www.google.com/intl/en/chrome/demos/speech.html)
-* [Using the Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
-* [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
-* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
-
-### Virtual Reality
-
-* [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
-
-### Web animations
-
-* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
-* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
-
-## Elements
-
-### Canvas
-
-* [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_canvas.asp)
-* [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
-* [Various Tutorials](https://www.html5canvastutorials.com/)
-* [Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
-
-### Head
-
-* [A list of things that go in your pages' HEAD element](https://gethead.info/)
-
-### Sectioning
-
-* [How to Use The HTML5 Sectioning Elements](https://blog.teamtreehouse.com/use-html5-sectioning-elements)
-
-
-
-
-  ## Front-End Development
-
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-- [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-  - [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
-  - [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-  - [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
-  - [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
-  - [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-  - [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
-  - [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
-- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
-- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
-- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
-- [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
-- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-- [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
-- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
-- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
-- [Meteor](https://github.com/Urigo/awesome-meteor#readme)
-- [BEM](https://github.com/sturobson/BEM-resources#readme)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
-- [Web Typography](https://github.com/deanhume/typography#readme)
-- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
-- [Material Design](https://github.com/sachin1092/awesome-material#readme)
-- [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
-- [Emails](https://github.com/jonathandion/awesome-emails#readme)
-- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
-  - [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
-- [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
-- [Offline-First](https://github.com/pazguille/offline-first#readme)
-- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
-- [Text Editing](https://github.com/dok/awesome-text-editing#readme)
-- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
-- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
-- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
-- [Charting](https://github.com/zingchart/awesome-charting#readme)
-- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
-- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
-- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
-- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
-- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
-- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
-- [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
-- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
-- [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
-- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
-- [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
-- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
-- [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
-- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
-- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
-- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
-- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
-- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
-- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
-- [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
-- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
-- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
-- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
-- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
-- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
-- [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
-- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
-- [Master CSS](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
-- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
-- [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
-- [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
-
-## Back-End Development
-
-- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
-- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
-	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
-- [Rails](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
-- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
-- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
-- [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
-- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
-- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
-- [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
-- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
-- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
-- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
-- [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
-
-
-## Programming Languages
+  ## Programming Languages
 - [Ansible](#ansible)
 - [Axum](#axum)
 - [C](#c)
@@ -632,6 +387,196 @@
 - [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good-first-issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
+
+
+
+# Articles and standards
+
+* [HTML 5.3](https://w3c.github.io/html/) - Current HTML5 spec
+* [Progressive enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
+* [The extensible web manifesto](https://extensiblewebmanifesto.org/)
+* [Differences between HTML5 and HTML4 from W3C](https://www.w3.org/TR/html5-diff/)
+
+## Multimedia capabilities
+
+### Audio
+
+* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
+* [Web Audio API at MDN](https://developer.mozilla.org/es/docs/Web_Audio_API)
+* [Making a Guitar Tuner with HTML5](https://jonathan.bergknoff.com/journal/making-a-guitar-tuner-html5)
+* [Audio visualisation with the Web Audio API and React](https://www.twilio.com/blog/audio-visualisation-web-audio-api--react)
+
+### Media Capture
+
+* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
+
+### Picture in Picture
+
+* [Chrome's new Picture in Picture API](https://developers.google.com/web/updates/2018/10/watch-video-using-picture-in-picture)
+
+### Speech Synthesis
+
+* [Intro to the HTML5 Speech Synthesis API](http://creative-punch.net/2014/10/intro-html5-speech-synthesis-api/)
+* [Another useful intro](https://shapeshed.com/html5-speech-recognition-api/)
+
+### Voice Recognition
+
+* [Web speech API demo](https://www.google.com/intl/en/chrome/demos/speech.html)
+* [Using the Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
+* [Experimenting with the Web Speech API](https://www.sitepoint.com/experimenting-web-speech-api/)
+* [Free voice recognition library (annyang)](https://www.talater.com/annyang/)
+
+### Virtual Reality
+
+* [Firefox Reality now available](https://blog.mozilla.org/blog/2018/09/18/firefox-reality-now-available/)
+
+### Web animations
+
+* [Intro to web animations](http://danielcwilson.com/blog/2015/07/animations-intro/)
+* [When to Use the Web Animations API](http://danielcwilson.com/blog/2016/08/why-waapi/)
+
+## Elements
+
+### Canvas
+
+* [Brief description from W3 Schools](https://www.w3schools.com/tags/tag_canvas.asp)
+* [Tutorial from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [Various Tutorials](https://www.html5canvastutorials.com/)
+* [Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)
+
+### Head
+
+* [A list of things that go in your pages' HEAD element](https://gethead.info/)
+
+### Sectioning
+
+* [How to Use The HTML5 Sectioning Elements](https://blog.teamtreehouse.com/use-html5-sectioning-elements)
+
+
+
+
+  ## Front-End Development
+
+- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
+- [Web Tools](https://github.com/lvwzhen/tools#readme)
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+  - [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
+  - [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
+  - [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
+  - [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
+  - [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
+- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+  - [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+  - [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
+- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
+- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
+- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
+- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
+- [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
+- [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
+- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
+- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
+- [Meteor](https://github.com/Urigo/awesome-meteor#readme)
+- [BEM](https://github.com/sturobson/BEM-resources#readme)
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
+- [Web Typography](https://github.com/deanhume/typography#readme)
+- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
+- [Material Design](https://github.com/sachin1092/awesome-material#readme)
+- [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
+- [Emails](https://github.com/jonathandion/awesome-emails#readme)
+- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
+  - [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
+- [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
+- [Offline-First](https://github.com/pazguille/offline-first#readme)
+- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
+- [Text Editing](https://github.com/dok/awesome-text-editing#readme)
+- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
+- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
+- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+- [Charting](https://github.com/zingchart/awesome-charting#readme)
+- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
+- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
+- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
+- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
+- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
+- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
+- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
+- [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
+- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
+- [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
+- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
+- [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
+- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
+- [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
+- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
+- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
+- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
+- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+- [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
+- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
+- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
+- [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
+- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Master CSS](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
+- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
+- [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
+- [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
+
+## Back-End Development
+
+- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
+- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
+	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
+	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+- [Rails](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
+- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+- [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
+- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
+- [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+
+
 
 
   ## Frameworks
