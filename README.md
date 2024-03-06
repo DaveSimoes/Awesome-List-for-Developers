@@ -2,7 +2,7 @@
 ![image](https://github.com/DaveSimoes/awesome-cool-stuf-for-beginners/assets/109705197/3d6000e8-2fa5-42ae-a17f-eafbbcf52272)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
- <h2 align = "center">Awesome list that curates the best cools stuf for developers beginners. PRs are welcome! </h2>
+ <h2 align = "center">Awesome list that curates the best cools stuf for developers beginners.</h2> <h2 align="center">PRs are welcome! </h2>
 
 
 # Categories: 🚀
