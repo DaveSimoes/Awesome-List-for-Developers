@@ -7,7 +7,6 @@
 
 # Categories: 🚀
 - [Learn](#learn)
-- [HTML](#html)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Programming Languages](#programming-languages)
