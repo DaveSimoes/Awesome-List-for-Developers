@@ -5,7 +5,7 @@
  <h2 align = "center">Awesome list that curates the best cools resources for developers beginners.</h2> <h2 align="center">PRs are welcome! </h2>
 
 
-# Categories: 🚀
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [Learn](#learn)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
