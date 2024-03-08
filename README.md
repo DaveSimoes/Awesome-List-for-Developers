@@ -10,7 +10,7 @@
 - [Courses](#courses)
 - [Tutorials](#tutorials)
 - [Programming Languages](#programming-languages)
-- [Markup Language-HTML](#markup-language-html)
+- [Markup Language - HTML](#markup-language-html)
 - [Tools](#tools)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
