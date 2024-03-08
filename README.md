@@ -10,6 +10,7 @@
 - [Courses](#courses)
 - [Tutorials](#tutorials)
 - [Programming Languages](#programming-languages)
+- [Markup Language](#markup-language)
 - [Tools](#tools)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
@@ -1464,6 +1465,14 @@ and anti-analysis techniques.
 - [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good-first-issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
+
+
+### Markup Language
+- [HTML5](https://github.com/diegocard/awesome-html5)
+- [HTML/CSS/JS Tips](https://github.com/markodenic/awesome-html-css-js-tips)
+- [HTML Report Template](https://github.com/MarcosEllys/awesome-newman-html-template)
+- [Selfhosted - HTML](https://github.com/awesome-selfhosted/awesome-selfhosted-html)
+  
 
 ### Tools
 
