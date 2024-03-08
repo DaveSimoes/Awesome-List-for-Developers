@@ -10,7 +10,7 @@
 - [Courses](#courses)
 - [Tutorials](#tutorials)
 - [Programming Languages](#programming-languages)
-- [Markup Language](#markup-language)
+- [Markup Language-HTML](#markup-language-html)
 - [Tools](#tools)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
@@ -1467,7 +1467,7 @@ and anti-analysis techniques.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
 
-### Markup Language
+### Markup Language - HTML
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [HTML/CSS/JS Tips](https://github.com/markodenic/awesome-html-css-js-tips)
 - [HTML Report Template](https://github.com/MarcosEllys/awesome-newman-html-template)
