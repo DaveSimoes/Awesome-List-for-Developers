@@ -7,6 +7,7 @@
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [AI](#ai)
+- [Portfolios](#portfolios)
 - [Learn](#learn)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -31,6 +32,13 @@
 - [About
 A repository to curate and summarise research papers related to fashion and e-commerce](https://github.com/ayushidalmia/awesome-fashion-ai)
 - [A curated list of awesome awesomeness about artificial intelligence](https://github.com/amusi/awesome-ai-awesomeness)
+
+## Portfolios
+- [This repository aims to collect portfolios and their repositories from developers around the world](https://github.com/Kiran1689/Awesome-Dev-Portfolios)
+- [A growing, curated list of amazing portfolios. Not only Design & Development ;)](https://github.com/JonathanMH/all-the-awesome-portfolios)
+- [A curated list of awesome github pages porfolio templates](https://github.com/guilyx/awesome-github-pages-portfolios)
+- [A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more](https://github.com/Evavic44/portfolio-ideas)
+- [A curated list of Awesome Developer Portfolio Websites For your inspiration](https://github.com/benzara-tahar/awesome-portfolios)
 
 ## Learn
 
