@@ -6,7 +6,7 @@
 
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
-- [AI](#ia)
+- [AI](#ai)
 - [Learn](#learn)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
