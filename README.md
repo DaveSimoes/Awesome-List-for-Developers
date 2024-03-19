@@ -6,7 +6,7 @@
 
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
-- [IA](#ia)
+- [AI](#ia)
 - [Learn](#learn)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -20,7 +20,7 @@
 - [Development Environment](#development-environment)
 - [Testing](#testing)
 
-## IA 
+## AI 
 - [Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
 
