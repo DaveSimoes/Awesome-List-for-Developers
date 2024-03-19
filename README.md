@@ -22,8 +22,15 @@
 
 ## AI 
 - [Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
-
-
+- [A list of AI autonomous agents](https://github.com/e2b-dev/awesome-ai-agents)
+- [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
+- [A curated list of awesome LLMs & deep learning strategies & tools in financial market](https://github.com/georgezouq/awesome-ai-in-finance)
+- [Curated tutorials and resources for Large Language Models, AI Painting, and more.](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
+- [Some awesome AI related books and pdfs for downloading and learning.](https://github.com/zslucky/awesome-AI-books)
+- [Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.](https://github.com/neomatrix369/awesome-ai-ml-dl)
+- [About
+A repository to curate and summarise research papers related to fashion and e-commerce](https://github.com/ayushidalmia/awesome-fashion-ai)
+- [A curated list of awesome awesomeness about artificial intelligence](https://github.com/amusi/awesome-ai-awesomeness)
 
 ## Learn
 
