@@ -8,6 +8,7 @@
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [AI](#ai)
 - [Portfolios](#portfolios)
+- [ChatGPT](#chatgpt)
 - [Learn](#learn)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -39,6 +40,16 @@ A repository to curate and summarise research papers related to fashion and e-co
 - [A curated list of awesome github pages porfolio templates](https://github.com/guilyx/awesome-github-pages-portfolios)
 - [A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more](https://github.com/Evavic44/portfolio-ideas)
 - [A curated list of Awesome Developer Portfolio Websites For your inspiration](https://github.com/benzara-tahar/awesome-portfolios)
+
+
+### ChatGPT
+- [A curated list of resources dedicated to open source GitHub repositories related to ChatGPT](https://github.com/taishi-i/awesome-ChatGPT-repositories)
+- [ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations](https://github.com/Kourva/AwesomeChatGPTBot)
+- [A repository containing interesting demos / failure cases of ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
+- 
+
+
+
 
 ## Learn
 
