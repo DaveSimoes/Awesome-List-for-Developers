@@ -46,7 +46,7 @@ A repository to curate and summarise research papers related to fashion and e-co
 - [A curated list of resources dedicated to open source GitHub repositories related to ChatGPT](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 - [ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations](https://github.com/Kourva/AwesomeChatGPTBot)
 - [A repository containing interesting demos / failure cases of ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
-- 
+  
 
 
 
