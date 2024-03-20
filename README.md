@@ -10,6 +10,7 @@
 - [Portfolios](#portfolios)
 - [ChatGPT](#chatgpt)
 - [IOS](#ios)
+- [Remote Jobs](#remote-jobs)
 - [Learn](#learn)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -60,6 +61,9 @@ A repository to curate and summarise research papers related to fashion and e-co
 - [List of awesome iOS & Swift stuff!!](https://github.com/jphong1111/awesome-ios-developer)
 
 
+## Remote Jobs
+- [A curated list of awesome remote jobs and resources](https://github.com/lukasz-madon/awesome-remote-job)
+- [An awesome list of places to search for Remote Jobs](https://github.com/oldmammuth/remote-jobs-list)
 
 ## Learn
 
