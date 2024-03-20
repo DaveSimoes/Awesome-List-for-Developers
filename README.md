@@ -1,7 +1,7 @@
 
 ![image](https://github.com/DaveSimoes/awesome-cool-stuf-for-beginners/assets/109705197/3d6000e8-2fa5-42ae-a17f-eafbbcf52272)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   <h2 align = "center">🌟Feel free to contribute this Repository!!🌟</h2>
  <h2 align = "center">Awesome list that curates the best cools material learning resources.</h2> <h2 align="center">PRs are welcome! </h2>
 
 
