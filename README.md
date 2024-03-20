@@ -1725,3 +1725,4 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
+Please ⭐ if you like it! ❤
