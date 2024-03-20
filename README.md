@@ -9,6 +9,7 @@
 - [AI](#ai)
 - [Portfolios](#portfolios)
 - [ChatGPT](#chatgpt)
+- [IOS](#ios)
 - [Learn](#learn)
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -48,6 +49,15 @@ A repository to curate and summarise research papers related to fashion and e-co
 - [A repository containing interesting demos / failure cases of ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
   
 
+### IOS
+- [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
+- [A curated list of awesome iOS UI/UX libraries](https://github.com/cjwirth/awesome-ios-ui)
+- [A curated list of awesome iOS animation, including Objective-C and Swift libraries](https://github.com/v5tech/awesome-ios-animation)
+- [Better ways to structure iOS apps](https://github.com/onmyway133/awesome-ios-architecture)
+- [A collaborative list of awesome for iOS developers. Include quick preview.](https://github.com/ivanvorobei/awesome-ios)
+- [The curated list of iOS Developer interview questions and answers, Swift & Objective-C](https://github.com/dashvlas/awesome-ios-interview)
+- [The challenge projects for Inferencing machine learning models on iOS](https://github.com/tucan9389/awesome-ml-demos-with-ios)
+- [List of awesome iOS & Swift stuff!!](https://github.com/jphong1111/awesome-ios-developer)
 
 
 
