@@ -9,7 +9,7 @@
 - [AI](#ai)
 - [Portfolios](#portfolios)
 - [ChatGPT](#chatgpt)
-- [API´s](#api´s)
+- [API´s](#apis)
 - [IOS](#ios)
 - [Remote Jobs](#remote-jobs)
 - [Learn](#learn)
