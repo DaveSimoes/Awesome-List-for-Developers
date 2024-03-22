@@ -9,6 +9,7 @@
 - [AI](#ai)
 - [Portfolios](#portfolios)
 - [ChatGPT](#chatgpt)
+- [API´s](#api´s)
 - [IOS](#ios)
 - [Remote Jobs](#remote-jobs)
 - [Learn](#learn)
@@ -48,6 +49,16 @@ A repository to curate and summarise research papers related to fashion and e-co
 - [A curated list of resources dedicated to open source GitHub repositories related to ChatGPT](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 - [ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations](https://github.com/Kourva/AwesomeChatGPTBot)
 - [A repository containing interesting demos / failure cases of ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
+
+  ### API´s
+- [Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota](https://github.com/reorx/awesome-chatgpt-api)
+- [A collection of awesome API Security tools and resources](https://github.com/arainho/awesome-api-security)
+- [A curated list of awesome resources for design and implement RESTful API's.](https://github.com/Kikobeats/awesome-api)
+- [Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API](https://github.com/roboflow/awesome-openai-vision-api-experiments)
+- [A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/yosriady/awesome-api-devtools)
+- [ collection of hacker tools using HackerOne's API](https://github.com/Hacker0x01/awesome-hacker-api-tools)
+- [Try openai assistant api apps on Google Colab for free. Awesome assistant API Demos](https://github.com/davideuler/awesome-assistant-api)
+
   
 
 ### IOS
