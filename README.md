@@ -8,9 +8,9 @@
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [AI](#ai)
 - [ChatGPT Prompts](#chatgptprompts)
-- [Portfolios](#portfolios)
 - [ChatGPT](#chatgpt)
 - [API´s](#apis)
+- [Portfolios](#portfolios)
 - [Fintechs](#fintechs)
 - [IOS](#ios)
 - [Remote Jobs](#remote-jobs)
@@ -41,13 +41,6 @@
 ## ChatGPT Prompts
 - [This repo includes ChatGPT prompt curation to use ChatGPT better](https://github.com/f/awesome-chatgpt-prompts)
 
-## Portfolios
-- [This repository aims to collect portfolios and their repositories from developers around the world](https://github.com/Kiran1689/Awesome-Dev-Portfolios)
-- [A growing, curated list of amazing portfolios. Not only Design & Development ;)](https://github.com/JonathanMH/all-the-awesome-portfolios)
-- [A curated list of awesome github pages porfolio templates](https://github.com/guilyx/awesome-github-pages-portfolios)
-- [A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more](https://github.com/Evavic44/portfolio-ideas)
-- [A curated list of Awesome Developer Portfolio Websites For your inspiration](https://github.com/benzara-tahar/awesome-portfolios)
-
 
 ### ChatGPT
 - [A curated list of resources dedicated to open source GitHub repositories related to ChatGPT](https://github.com/taishi-i/awesome-ChatGPT-repositories)
@@ -63,7 +56,13 @@
 - [ collection of hacker tools using HackerOne's API](https://github.com/Hacker0x01/awesome-hacker-api-tools)
 - [Try openai assistant api apps on Google Colab for free. Awesome assistant API Demos](https://github.com/davideuler/awesome-assistant-api)
 
-  
+  ## Portfolios
+- [This repository aims to collect portfolios and their repositories from developers around the world](https://github.com/Kiran1689/Awesome-Dev-Portfolios)
+- [A growing, curated list of amazing portfolios. Not only Design & Development ;)](https://github.com/JonathanMH/all-the-awesome-portfolios)
+- [A curated list of awesome github pages porfolio templates](https://github.com/guilyx/awesome-github-pages-portfolios)
+- [A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more](https://github.com/Evavic44/portfolio-ideas)
+- [A curated list of Awesome Developer Portfolio Websites For your inspiration](https://github.com/benzara-tahar/awesome-portfolios)
+
 
 ### IOS
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
