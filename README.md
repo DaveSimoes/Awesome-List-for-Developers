@@ -7,6 +7,7 @@
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [AI](#ai)
+- [ChatGPT Prompts](#chatgptprompts)
 - [Portfolios](#portfolios)
 - [ChatGPT](#chatgpt)
 - [API´s](#apis)
@@ -34,9 +35,11 @@
 - [Curated tutorials and resources for Large Language Models, AI Painting, and more.](https://github.com/luban-agi/Awesome-AIGC-Tutorials)
 - [Some awesome AI related books and pdfs for downloading and learning.](https://github.com/zslucky/awesome-AI-books)
 - [Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.](https://github.com/neomatrix369/awesome-ai-ml-dl)
-- [About
-A repository to curate and summarise research papers related to fashion and e-commerce](https://github.com/ayushidalmia/awesome-fashion-ai)
+- [About A repository to curate and summarise research papers related to fashion and e-commerce](https://github.com/ayushidalmia/awesome-fashion-ai)
 - [A curated list of awesome awesomeness about artificial intelligence](https://github.com/amusi/awesome-ai-awesomeness)
+
+## ChatGPT Prompts
+- [This repo includes ChatGPT prompt curation to use ChatGPT better](https://github.com/f/awesome-chatgpt-prompts)
 
 ## Portfolios
 - [This repository aims to collect portfolios and their repositories from developers around the world](https://github.com/Kiran1689/Awesome-Dev-Portfolios)
