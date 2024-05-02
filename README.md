@@ -7,8 +7,8 @@
 
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [AI](#ai)
-- [ChatGPT Prompts](#chatgptprompts)
 - [ChatGPT](#chatgpt)
+- [ChatGPT Prompts](#chatgptprompts)
 - [API´s](#apis)
 - [Portfolios](#portfolios)
 - [Fintechs](#fintechs)
@@ -38,14 +38,16 @@
 - [About A repository to curate and summarise research papers related to fashion and e-commerce](https://github.com/ayushidalmia/awesome-fashion-ai)
 - [A curated list of awesome awesomeness about artificial intelligence](https://github.com/amusi/awesome-ai-awesomeness)
 
-## ChatGPT Prompts
-- [This repo includes ChatGPT prompt curation to use ChatGPT better](https://github.com/f/awesome-chatgpt-prompts)
-
 
 ### ChatGPT
 - [A curated list of resources dedicated to open source GitHub repositories related to ChatGPT](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 - [ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations](https://github.com/Kourva/AwesomeChatGPTBot)
 - [A repository containing interesting demos / failure cases of ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
+
+  
+## ChatGPT Prompts
+- [This repo includes ChatGPT prompt curation to use ChatGPT better](https://github.com/f/awesome-chatgpt-prompts)
+
 
   ### API´s
 - [Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota](https://github.com/reorx/awesome-chatgpt-api)
