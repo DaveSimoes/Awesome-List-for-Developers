@@ -10,6 +10,7 @@
 - [Portfolios](#portfolios)
 - [ChatGPT](#chatgpt)
 - [API´s](#apis)
+- [Fintechs](#fintechs)
 - [IOS](#ios)
 - [Remote Jobs](#remote-jobs)
 - [Learn](#learn)
@@ -71,6 +72,8 @@ A repository to curate and summarise research papers related to fashion and e-co
 - [The challenge projects for Inferencing machine learning models on iOS](https://github.com/tucan9389/awesome-ml-demos-with-ios)
 - [List of awesome iOS & Swift stuff!!](https://github.com/jphong1111/awesome-ios-developer)
 
+### Fintechs
+- [A curated list of amazingly awesome financial libraries, resources and shiny things.](https://github.com/7kfpun/awesome-fintech?tab=readme-ov-file#javascript)
 
 ## Remote Jobs
 - [A curated list of awesome remote jobs and resources](https://github.com/lukasz-madon/awesome-remote-job)
