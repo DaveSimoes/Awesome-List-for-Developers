@@ -8,7 +8,8 @@
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 - [AI](#ai)
 - [ChatGPT](#chatgpt)
-- [ChatGPT Prompts](#chatgptprompts)
+- [ChatGPT Prompts](#chatgpt-prompts)
+- [Solidity](#solidity)
 - [API´s](#apis)
 - [Portfolios](#portfolios)
 - [Fintechs](#fintechs)
@@ -39,7 +40,7 @@
 - [A curated list of awesome awesomeness about artificial intelligence](https://github.com/amusi/awesome-ai-awesomeness)
 
 
-### ChatGPT
+## ChatGPT
 - [A curated list of resources dedicated to open source GitHub repositories related to ChatGPT](https://github.com/taishi-i/awesome-ChatGPT-repositories)
 - [ChatGPT Telegram bot: Free & Rich-Feature bot for enhanced conversations](https://github.com/Kourva/AwesomeChatGPTBot)
 - [A repository containing interesting demos / failure cases of ChatGPT](https://github.com/shoaibahmed/awesome-ChatGPT)
@@ -48,8 +49,11 @@
 ## ChatGPT Prompts
 - [This repo includes ChatGPT prompt curation to use ChatGPT better](https://github.com/f/awesome-chatgpt-prompts)
 
+## Solidity
+- [A curated list of awesome Solidity resources, libraries, tools and more](https://github.com/bkrem/awesome-solidity)
 
-  ### API´s
+
+## API´s
 - [Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota](https://github.com/reorx/awesome-chatgpt-api)
 - [A collection of awesome API Security tools and resources](https://github.com/arainho/awesome-api-security)
 - [A curated list of awesome resources for design and implement RESTful API's.](https://github.com/Kikobeats/awesome-api)
@@ -58,7 +62,7 @@
 - [ collection of hacker tools using HackerOne's API](https://github.com/Hacker0x01/awesome-hacker-api-tools)
 - [Try openai assistant api apps on Google Colab for free. Awesome assistant API Demos](https://github.com/davideuler/awesome-assistant-api)
 
-  ## Portfolios
+## Portfolios
 - [This repository aims to collect portfolios and their repositories from developers around the world](https://github.com/Kiran1689/Awesome-Dev-Portfolios)
 - [A growing, curated list of amazing portfolios. Not only Design & Development ;)](https://github.com/JonathanMH/all-the-awesome-portfolios)
 - [A curated list of awesome github pages porfolio templates](https://github.com/guilyx/awesome-github-pages-portfolios)
@@ -66,7 +70,7 @@
 - [A curated list of Awesome Developer Portfolio Websites For your inspiration](https://github.com/benzara-tahar/awesome-portfolios)
 
 
-### IOS
+## IOS
 - [A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
 - [A curated list of awesome iOS UI/UX libraries](https://github.com/cjwirth/awesome-ios-ui)
 - [A curated list of awesome iOS animation, including Objective-C and Swift libraries](https://github.com/v5tech/awesome-ios-animation)
@@ -76,7 +80,7 @@
 - [The challenge projects for Inferencing machine learning models on iOS](https://github.com/tucan9389/awesome-ml-demos-with-ios)
 - [List of awesome iOS & Swift stuff!!](https://github.com/jphong1111/awesome-ios-developer)
 
-### Fintechs
+## Fintechs
 - [A curated list of amazingly awesome financial libraries, resources and shiny things.](https://github.com/7kfpun/awesome-fintech?tab=readme-ov-file#javascript)
 
 ## Remote Jobs
@@ -101,7 +105,7 @@
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
 
-  ### Courses
+  ## Courses
 
 - [Algorithms](#algorithms)
 - [Artificial Intelligence](#artificial-intelligence)
@@ -120,7 +124,7 @@
 Courses
 -------
 
-### Systems
+## Systems
 
 - [CS 61C](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- The subjects covered in this course include: C and assembly language programming, translation of high-level programs into machine language, computer organization, caches, performance measurement, parallelism, CPU design, warehouse-scale computing, and related topics.
@@ -287,7 +291,7 @@ Courses
 	- [Readings](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=readings)
 
 --------
-### Programming Languages / Compilers
+## Programming Languages / Compilers
 
 - [CS 75](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html) **Principles of Compiler Design** *Swathmore College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Modelled after the influential paper on [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf), this course teaches how to build a compiler in OCaml
@@ -411,7 +415,7 @@ Courses
 
 -------
 
-### Algorithms
+## Algorithms
 
 - [CS 61B](http://datastructur.es/sp16/) **Data Structures** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- In this course, you will study advanced programming techniques including data structures, encapsulation, abstract data types, interfaces, and algorithms for sorting and searching, and you will get a taste of “software engineering”—the design and implementation of large programs.
@@ -699,7 +703,7 @@ Courses
 
 -------
 
-### Machine Learning
+## Machine Learning
 
 - [DEEPNLP](https://github.com/oxford-cs-deepnlp-2017/) **Deep Learning for Natural Language Processing** *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This is an applied course focussing on recent advances in analysing and generating speech and text using recurrent neural networks. We introduce the mathematical definitions of the relevant machine learning models and derive their associated optimisation algorithms. The course covers a range of applications of neural networks in NLP including analysing latent dimensions in text, transcribing speech to text, translating between languages, and answering questions. This course is organised by Phil Blunsom and delivered in partnership with the **DeepMind Natural Language Research Group**.
@@ -834,7 +838,7 @@ Topics covered include probability theory and Bayesian inference; univariate dis
 
 -------
 
-### Security
+## Security
 - [CIS 4930 / CIS 5930](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/) **Offensive Computer Security** *Florida State University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Course taught by [W. Owen Redwood](http://ww2.cs.fsu.edu/~redwood/) and [Xiuwen Liu](http://www.cs.fsu.edu/~liux/). It covers a wide range of computer security topics, starting from Secure C Coding and Reverse Engineering to Penetration Testing, Exploitation and Web Application Hacking, both from the defensive and the offensive point of view.
 	- [Lectures and Videos](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
@@ -889,7 +893,7 @@ and anti-analysis techniques.
 	- The Web continues to grow in popularity as platform for retail transactions, financial services, and rapidly evolving forms of communication. It is becoming an increasingly attractive target for attackers who wish to compromise users' systems or steal data from other sites. Browser vendors must stay ahead of these attacks by providing features that support secure web applications. This course will study vulnerabilities in existing web browsers and the applications they render, as well as new technologies that enable web applications that were never before possible. The material will be largely based on current research problems, and students will be expected to criticize and improve existing defenses. Topics of study include (but are not limited to) browser encryption, JavaScript security, plug-in security, sandboxing, web mashups, and authentication.
 
 -------
-### Artificial Intelligence
+## Artificial Intelligence
 
 - [CS 188](http://ai.berkeley.edu/home.html) **Introduction to Artificial Intelligence** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- This course will introduce the basic ideas and techniques underlying the design of intelligent computer systems. A specific emphasis will be on the statistical and decision-theoretic modeling paradigm. By the end of this course, you will have built autonomous agents that efficiently make decisions in fully informed, partially observable and adversarial settings. Your agents will draw inferences in uncertain environments and optimize actions for arbitrary reward structures. Your machine learning algorithms will classify handwritten digits and photographs. The techniques you learn in this course apply to a wide variety of artificial intelligence problems and will serve as the foundation for further study in any application area you choose to pursue.
@@ -912,7 +916,7 @@ and anti-analysis techniques.
 	- [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/)
 
 -------
-### Computer Graphics
+## Computer Graphics
 - [CAP 5415](http://crcv.ucf.edu/courses/CAP5415/) **Computer Vision** *University of Central Florida* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- An introductory level course covering the basic topics of computer vision, and introducing some fundamental approaches for computer vision research.
 	- [Lectures and Videos](http://crcv.ucf.edu/videos/Lecture_Videos/)
@@ -1105,7 +1109,7 @@ and anti-analysis techniques.
 
 
 -----
-### Statistics
+## Statistics
 
 - [STAT 340](https://andrewpbray.github.io/reg/index.html) **Applied Regression Methods** *Smith College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 
@@ -1118,15 +1122,7 @@ and anti-analysis techniques.
 - [Syllabus](https://andrewpbray.github.io/reg/syllabus.html)
 - [Lecture Notes](https://andrewpbray.github.io/reg/index.html)
 
-
-
-
-
-
-
-
-
-### Tutorials
+## Tutorials
 
 1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
@@ -1524,14 +1520,14 @@ and anti-analysis techniques.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
 
-### Markup Language-HTML
+## Markup Language-HTML
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [HTML/CSS/JS Tips](https://github.com/markodenic/awesome-html-css-js-tips)
 - [HTML Report Template](https://github.com/MarcosEllys/awesome-newman-html-template)
 - [Selfhosted - HTML](https://github.com/awesome-selfhosted/awesome-selfhosted-html)
   
 
-### Tools
+## Tools
 
 1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
 2.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
